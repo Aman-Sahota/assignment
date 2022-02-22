@@ -1,0 +1,10 @@
+$primary-color: #eeeeee;
+$secondary-color: #f4f4f4;
+$tertiary-color: #242424;
+$accent-color: #f2be35;
+$primary-text-color: #555;
+$secondary-text-color: lighten(
+  $color: $primary-text-color,
+  $amount: 45%,
+);
+$tertiary-text-color: #2a90c6;
